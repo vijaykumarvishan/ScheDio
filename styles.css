@@ -1,0 +1,102 @@
+#outer
+{
+	height:1400px;
+	width:1300px;
+	//border:1px solid white;
+	margin:0px auto;
+}
+body
+{
+	background-color:green;
+}
+#menu
+{
+	height:80px;
+	width:1300px;
+	background-color:white;
+	border-radius:20px 20px 0px 0px;
+	border:1px solid white;
+}
+#slider
+{
+	height:250px;
+	width:1300px;
+	background-color:white;
+	margin-top:5px;
+}
+#sides
+{
+	height:1100px;
+	width:1300px;
+	background-color:white;
+	float:left;
+	border-radius:0px 0px 20px 20px;
+}
+#middle_part
+{
+	height:1100px;
+	width:1300px;
+	background-color:green;
+	margin-top:5px;
+}
+#footer
+{
+	height:270px;
+	width:1300px;
+	background-color:white;
+	border-radius:20px;
+	border:1px solid white;
+	margin-top:5px;
+}
+#info
+{
+	height:270px;
+	width:1300px;
+	background-color:white;
+	border-radius:20px;
+	border:1px solid white;
+	margin-top:5px;
+}
+.one
+{
+	height:240;
+	width:310;
+	border:1px;
+	margin-top:15px;
+	margin-left:10px;
+	float:left;
+}
+#reg
+{
+	height:600;
+	width:400;
+	border-radius:20px;
+	border:1px;
+	margin-top:15px;
+	margin-left:500px;
+}
+#menu ul{
+	list-style-type:none;
+}
+#menu ul li{
+	display:inline;
+	padding:15px;
+}
+#menu ul li a{
+	color:black;
+	font-size:20px;
+	text-decoration:none;
+}
+
+#menu ul li label{
+	color:black;
+	font-size:20px;
+	text-decoration:none;
+}
+#menu ul li a:hover{
+	color:green;
+}
+.topnav-right {
+	float: right;
+	padding:5px;
+}
